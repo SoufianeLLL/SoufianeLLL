@@ -12,14 +12,22 @@
   <ul>
     <li>
       <b>VBN</b>. Vloma blogging Platform – <a href="https://vlauma.com">https://vlauma.com</a>
+      <ul>–<b>Language:</b> multilingual, english default</ul>
       <ul>–<b>Progress:</b> 2%</ul>
     </li>
     <li>
       <b>Firrt</b>. Digital Marketplace – <a href="https://firrt.com">https://firrt.com</a>
+      <ul>–<b>Language:</b> English</ul>
       <ul>–<b>Progress:</b> 43%</ul>
     </li>
     <li>
+      <b>[PRIVATE NAME]</b>. The biggest arabic community of handpicked developers and designers, for your projects.
+      <ul>–<b>Language:</b> arabic</ul>
+      <ul>–<b>Progress:</b> 3%</ul>
+    </li>
+    <li>
       <b>Unknown</b>. Turn your WooCommerce website to Native mobile application made with Flutter in less than 3min.
+      <ul>–<b>Language:</b> multilingual, english default</ul>
       <ul>–<b>Status:</b> soon...</ul>
     </li>
   </ul>
