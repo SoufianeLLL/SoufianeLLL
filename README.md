@@ -18,7 +18,7 @@
     <li>
       <b>Firrt</b>. Digital Marketplace – <a href="https://firrt.com">https://firrt.com</a>
       <ul>–<b>Language:</b> English</ul>
-      <ul>–<b>Progress:</b> 43%</ul>
+      <ul>–<b>Progress:</b> 78%</ul>
     </li>
     <li>
       <b>[PRIVATE NAME]</b>. The biggest arabic community of handpicked developers and designers, for your projects.
@@ -26,9 +26,8 @@
       <ul>–<b>Progress:</b> 3%</ul>
     </li>
     <li>
-      <b>Unknown</b>. Turn your WooCommerce website to Native mobile application made with Flutter in less than 3min.
-      <ul>–<b>Language:</b> multilingual, english default</ul>
-      <ul>–<b>Status:</b> soon...</ul>
+      <b>Waw</b>. Hosting Provider & Web Services – <a href="https://wawhosting.com">https://wawhosting.com</a>
+      <ul>–<b>Language:</b> multilingual, arabic default</ul>
     </li>
   </ul>
 </div>
