@@ -29,6 +29,10 @@
       <b>Waw</b>. Hosting Provider & Web Services – <a href="https://wawhosting.com">https://wawhosting.com</a>
       <ul>–<b>Language:</b> multilingual, arabic default</ul>
     </li>
+    <li>
+      <b>eFasty</b>. Meal Plan & Monitor your Weight – <a href="https://efasty.soufiane.co">https://efasty.soufiane.co</a>
+      <ul>–<b>Language:</b> multilingual, english default</ul>
+    </li>
   </ul>
 </div>
 
