@@ -4,7 +4,7 @@
 <p>
   Website: <a href="https://soufiane.co">https://soufiane.co</a>.
   <br>
-  Contact me: <a href="mailto:soufiane.loudini@gmail.com">soufiane.loudini@gmail.com</a>.
+  Contact me: <a href="mailto:cm@soufiane.co">cm@soufiane.co</a>.
 </p>
 
 <h2>My Projects:</h2>
@@ -15,20 +15,23 @@
       <ul>–<b>Language:</b> multilingual, english default</ul>
       <ul>–<b>Progress:</b> 2%</ul>
     </li>
+    <p></p>
     <li>
       <b>Firrt</b>. Digital Marketplace – <a href="https://firrt.com">https://firrt.com</a>
       <ul>–<b>Language:</b> English</ul>
-      <ul>–<b>Progress:</b> 78%</ul>
     </li>
+    <p></p>
     <li>
       <b>[PRIVATE NAME]</b>. The biggest arabic community of handpicked developers and designers, for your projects.
       <ul>–<b>Language:</b> arabic</ul>
       <ul>–<b>Progress:</b> 3%</ul>
     </li>
+    <p></p>
     <li>
       <b>Waw</b>. Hosting Provider & Web Services – <a href="https://wawhosting.com">https://wawhosting.com</a>
       <ul>–<b>Language:</b> multilingual, arabic default</ul>
     </li>
+    <p></p>
     <li>
       <b>eFasty</b>. Meal Plan & Monitor your Weight – <a href="https://efasty.soufiane.co">https://efasty.soufiane.co</a>
       <ul>–<b>Language:</b> multilingual, english default</ul>
@@ -38,29 +41,11 @@
 
 <br/><br/>
 <h3><a id="user-content-things-i-code-with" class="anchor" aria-hidden="true" href="#things-i-code-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Things I code with</h3>
-<div>
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/css-3-1.svg" />
-</div>
+<div>Html, php, Nextjs, Nodejs, Reactjs, Flutter, mySql, Firebase, Supabase, CSS, Tailwind, PostgreSQL, Wordpress ...</div>
 
 <h3>Things I Design with</h3>
-<div>
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" />
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" />
-</div>
+<div>Framer, XD, Illustrator, Photoshop</div>
+
+
+<h3>Interesting things to learn</h3>
+<div>Unity 3D, Blinder, Autodesk Maya</div>
