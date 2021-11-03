@@ -2,9 +2,9 @@
 <br/>
 <p>Welcome to my page! <br> I'm Soufiane L, <b>Fullstack developer</b>.</p>
 <p>
-  Website: <a href="https://soufiane.co">https://soufiane.co</a>.
+  Website: <a href="https://loudaini.dev">https://loudaini.dev</a>.
   <br>
-  Contact me: <a href="mailto:cm@soufiane.co">cm@soufiane.co</a>.
+  Contact me: <a href="mailto:cm@loudaini.dev">cm@loudaini.dev</a>.
 </p>
 
 
